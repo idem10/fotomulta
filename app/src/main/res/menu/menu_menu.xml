@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context="ale.y.daniel.fotomulta.Menu">
+    <item
+        android:id="@+id/brujla"
+        android:orderInCategory="1"
+        android:title="@string/brujula"/>
+
+    <item
+        android:id="@+id/velocimetro"
+        android:orderInCategory="2"
+        android:title="@string/Velocidad"/>
+
+    <item
+        android:id="@+id/optionAyuda"
+        android:orderInCategory="3"
+        android:title="@string/optionAyuda"/>
+</menu>

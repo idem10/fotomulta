@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FotoMultas</string>
+    <string name="title_activity_maps">Foto Multas</string>
+    <string name="title_activity_principal">Principal</string>
+    <string name="action_settings">Brujula</string>
+    <string name="velocidad">0</string>
+    <string name="km">km/h</string>
+    <string name="title_activity_velocimetro">Brujula</string>
+    <string name="brujula">Brujula</string>
+    <string name="Velocidad">Cambiar mapa</string>
+
+
+    <string name="inicio">Mapa</string>
+    <string name="velocimetro">Cambiar mapa</string>
+    <string name="optionAyuda">Acerca de</string>
+    <string name="text_norte">N</string>
+    <string name="text_sur">S</string>
+    <string name="text_este">E</string>
+    <string name="text_oeste">O</string>
+    <string name="descriptionImg">ImageView</string>
+
+
+
+</resources>
